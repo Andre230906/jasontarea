@@ -1,0 +1,204 @@
+{
+    "ventas": {
+        "clientes": [
+            {
+                "id": 4,
+                "nombre": "Adri\u00c3\u00a1n",
+                "apellido1": "Su\u00c3\u00a1rez",
+                "ciudad": "Ja\u00c3\u00a9n",
+                "categor\u00c3\u00ada": 300
+            },
+            {
+                "id": 5,
+                "nombre": "Marcos",
+                "apellido1": "Loyola",
+                "apellido2": "M\u00c3\u00a9ndez",
+                "ciudad": "Almer\u00c3\u00ada",
+                "categor\u00c3\u00ada": 200
+            },
+            {
+                "id": 6,
+                "nombre": "Mar\u00c3\u00ada",
+                "apellido1": "Santana",
+                "apellido2": "Moreno",
+                "ciudad": "C\u00c3\u00a1diz",
+                "categor\u00c3\u00ada": 100
+            },
+            {
+                "id": 7,
+                "nombre": "Pilar",
+                "apellido1": "Ruiz",
+                "ciudad": "Sevilla",
+                "categor\u00c3\u00ada": 300
+            },
+            {
+                "id": 8,
+                "nombre": "Pepe",
+                "apellido1": "Ruiz",
+                "apellido2": "Santana",
+                "ciudad": "Huelva",
+                "categor\u00c3\u00ada": 200
+            },
+            {
+                "id": 9,
+                "nombre": "Guillermo",
+                "apellido1": "L\u00c3\u00b3pez",
+                "apellido2": "G\u00c3\u00b3mez",
+                "ciudad": "Granada",
+                "categor\u00c3\u00ada": 225
+            },
+            {
+                "id": 10,
+                "nombre": "Daniel",
+                "apellido1": "Santana",
+                "apellido2": "Loyola",
+                "ciudad": "Sevilla",
+                "categor\u00c3\u00ada": 125
+            }
+        ],
+        "comerciales": [
+            {
+                "id": 3,
+                "nombre": "Diego",
+                "apellido1": "Flores",
+                "apellido2": "Salas",
+                "comisi\u00c3\u00b3n": 0.11
+            },
+            {
+                "id": 4,
+                "nombre": "Marta",
+                "apellido1": "Herrera",
+                "apellido2": "Gil",
+                "comisi\u00c3\u00b3n": 0.14
+            },
+            {
+                "id": 5,
+                "nombre": "Antonio",
+                "apellido1": "Carretero",
+                "apellido2": "Ortega",
+                "comisi\u00c3\u00b3n": 0.12
+            },
+            {
+                "id": 6,
+                "nombre": "Manuel",
+                "apellido1": "Dom\u00c3\u00adnguez",
+                "apellido2": "Hern\u00c3\u00a1ndez",
+                "comisi\u00c3\u00b3n": 0.13
+            },
+            {
+                "id": 7,
+                "nombre": "Antonio",
+                "apellido1": "Vega",
+                "apellido2": "Hern\u00c3\u00a1ndez",
+                "comisi\u00c3\u00b3n": 0.11
+            },
+            {
+                "id": 8,
+                "nombre": "Alfredo",
+                "apellido1": "Ruiz",
+                "apellido2": "Flores",
+                "comisi\u00c3\u00b3n": 0.05
+            }
+        ],
+        "pedidos": [
+            {
+                "id": 3,
+                "total": 65.26,
+                "fecha": "2017-10-05",
+                "id_cliente": 2,
+                "id_comercial": 1
+            },
+            {
+                "id": 4,
+                "total": 110.5,
+                "fecha": "2016-08-17",
+                "id_cliente": 8,
+                "id_comercial": 3
+            },
+            {
+                "id": 5,
+                "total": 948.5,
+                "fecha": "2017-09-10",
+                "id_cliente": 5,
+                "id_comercial": 2
+            },
+            {
+                "id": 6,
+                "total": 2400.6,
+                "fecha": "2016-07-27",
+                "id_cliente": 7,
+                "id_comercial": 1
+            },
+            {
+                "id": 7,
+                "total": 5760,
+                "fecha": "2015-09-10",
+                "id_cliente": 2,
+                "id_comercial": 1
+            },
+            {
+                "id": 8,
+                "total": 1983.43,
+                "fecha": "2017-10-10",
+                "id_cliente": 4,
+                "id_comercial": 6
+            },
+            {
+                "id": 9,
+                "total": 2480.4,
+                "fecha": "2016-10-10",
+                "id_cliente": 8,
+                "id_comercial": 3
+            },
+            {
+                "id": 10,
+                "total": 250.45,
+                "fecha": "2015-06-27",
+                "id_cliente": 8,
+                "id_comercial": 2
+            },
+            {
+                "id": 11,
+                "total": 75.29,
+                "fecha": "2016-08-17",
+                "id_cliente": 3,
+                "id_comercial": 7
+            },
+            {
+                "id": 12,
+                "total": 3045.6,
+                "fecha": "2017-04-25",
+                "id_cliente": 2,
+                "id_comercial": 1
+            },
+            {
+                "id": 13,
+                "total": 545.75,
+                "fecha": "2019-01-25",
+                "id_cliente": 6,
+                "id_comercial": 1
+            },
+            {
+                "id": 14,
+                "total": 145.82,
+                "fecha": "2017-02-02",
+                "id_cliente": 6,
+                "id_comercial": 1
+            },
+            {
+                "id": 15,
+                "total": 370.85,
+                "fecha": "2019-03-11",
+                "id_cliente": 1,
+                "id_comercial": 5
+            },
+            {
+                "id": 16,
+                "total": 2389.23,
+                "fecha": "2019-03-11",
+                "id_cliente": 1,
+                "id_comercial": 5
+            }
+        ]
+    }
+}
