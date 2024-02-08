@@ -2,7 +2,7 @@ import json
 
 # Función para cargar los datos desde el archivo JSON
 def cargar_datos():
-    with open('json.json') as file:
+    with open('data.json') as file:
         return json.load(file)
 
 # Función para guardar los datos en el archivo JSON
